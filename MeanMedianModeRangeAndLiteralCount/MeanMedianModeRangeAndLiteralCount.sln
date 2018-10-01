@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeanMedianModeRangeAndLiteralCount", "MeanMedianModeRangeAndLiteralCount\MeanMedianModeRangeAndLiteralCount.csproj", "{C9F3550B-8D5C-46F4-ACAD-5FDBF350E1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeanMedianModeRangeAndLiteralCount.UnitTests", "MeanMedianModeRangeAndLiteralCount.UnitTests\MeanMedianModeRangeAndLiteralCount.UnitTests.csproj", "{DE8E2C3A-5D48-4DCD-BABC-5ACAAC58CB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F3550B-8D5C-46F4-ACAD-5FDBF350E1E8}.Debug|x86.ActiveCfg = Debug|x86
+		{C9F3550B-8D5C-46F4-ACAD-5FDBF350E1E8}.Debug|x86.Build.0 = Debug|x86
+		{C9F3550B-8D5C-46F4-ACAD-5FDBF350E1E8}.Release|x86.ActiveCfg = Release|x86
+		{C9F3550B-8D5C-46F4-ACAD-5FDBF350E1E8}.Release|x86.Build.0 = Release|x86
+		{DE8E2C3A-5D48-4DCD-BABC-5ACAAC58CB04}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DE8E2C3A-5D48-4DCD-BABC-5ACAAC58CB04}.Debug|x86.Build.0 = Debug|Any CPU
+		{DE8E2C3A-5D48-4DCD-BABC-5ACAAC58CB04}.Release|x86.ActiveCfg = Release|Any CPU
+		{DE8E2C3A-5D48-4DCD-BABC-5ACAAC58CB04}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
